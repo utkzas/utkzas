@@ -17,7 +17,7 @@
 - 🌱 A strong emphasis on engineering-driven quality in the development of maintainable software systems.
 - 💬 A clear grasp of what it takes to get things done and a keen eye for detail.
 - ⚡ In-depth knowledge of the architecture, scalability, and security elements of developing and deploying large-scale services and products.
-- 😄 Technology Lead @UncertainCo and Senior Council @hashdefine
+- 😄 Technology Lead [@UncertainCo](https://github.com/uncertainco) and Senior Council [@hashdefine](https://github.com/hash-define-organization)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkzas&label=Views&color=grey&style=plastic" /> </p>
 
