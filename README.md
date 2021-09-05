@@ -1,4 +1,4 @@
-### Hi there, I am [Utkarsh Sharma]
+### Hi there, I am [Utkarsh Sharma](twitter.com/utkzas)
 
 <a href="https://twitter.com/utkzas">
   <img align="left" alt="Utkarsh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
