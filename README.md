@@ -12,7 +12,7 @@
 </a>
 
 <p>&nbsp;</p>
-
+Currently Intern at 47 Creations (Goa, India)
 - 🔭 The concept of using technology to serve the humanity motivates and encourages me to build great applications.
 - 🌱 A strong emphasis on engineering-driven quality in the development of maintainable software systems.
 - 💬 A clear grasp of what it takes to get things done and a keen eye for detail.
