@@ -13,11 +13,12 @@
 
 <p>&nbsp;</p>
 
-- 🔭 The concept of using technology to serve the humanity motivates and encourages me to build great applications.
+- 😄 Currently Intern at 47 Creations (Goa, India)
+- 🔭The concept of using technology to serve the humanity motivates and encourages me to build great applications.
 - 🌱 A strong emphasis on engineering-driven quality in the development of maintainable software systems.
 - 💬 A clear grasp of what it takes to get things done and a keen eye for detail.
 - ⚡ In-depth knowledge of the architecture, scalability, and security elements of developing and deploying large-scale services and products.
-- 😄 Technology Lead [Uncertain Co](https://github.com/uncertainco) and Senior Council [HashDefine](https://github.com/hash-define-organization)
+- 😄 Community: Technology Lead at [Uncertain Co](https://github.com/uncertainco) and Leader at [HashDefine](https://github.com/hash-define-organization)
 
 
 #### Languages and Tools:
