@@ -13,7 +13,7 @@
 
 <p>&nbsp;</p>
 
-- 😄 Student at Bhagwan Parshuram Institute of Technology (Delhi, India)
+- 😄 Student Bachelor of Technology in Information Technology (IT) (Delhi, India)
 - ⚡ Full Stack Developer Intern at 47 Creations (Goa, India)
 - 🔭 The concept of using technology to serve the humanity motivates and encourages me to build great applications.
 - 🌱 A strong emphasis on engineering-driven quality in the development of maintainable software systems.
