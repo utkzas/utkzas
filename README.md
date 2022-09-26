@@ -13,7 +13,7 @@
 
 <p>&nbsp;</p>
 
-- 😄 Student Bachelor of Technology in Information Technology (IT) (Delhi, India)
+- 😄 Student Bachelor of Technology in Information Technology (IT)
 - ⚡ Full Stack Developer Intern at 47 Creations (acquired by <a href="https://en.wikipedia.org/wiki/Pratilipi">Pratilipi</a>) (Goa, India)
 - 🔭 The concept of using technology to serve the humanity motivates and encourages me to build great applications.
 - 🌱 A strong emphasis on engineering-driven quality in the development of maintainable software systems.
