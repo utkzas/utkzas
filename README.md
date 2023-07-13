@@ -1,20 +1,10 @@
-### Hi there, I am Utkarsh Sharma
+### Hi there, I am Utkarsh
 
-<a href="https://twitter.com/utkarsh404">
-  <img align="left" alt="Utkarsh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://github.com/utkarsh">
-  <img align="left" alt="Utkarsh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://medium.com/@utkarsh404">
-  <img align="left" alt="Utkarsh's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
 
 <p>&nbsp;</p>
 
 - 😄 Student Bachelor of Technology in Information Technology (IT)
-- ⚡ Full Stack Developer Intern at 47 Creations (acquired by <a href="https://en.wikipedia.org/wiki/Pratilipi">Pratilipi</a>) (Goa, India)
+- ⚡ Full Stack Developer Intern at 47 Creations
 - 🔭 The concept of using technology to serve the humanity motivates and encourages me to build great applications.
 - 🌱 A strong emphasis on engineering-driven quality in the development of maintainable software systems.
 - 💬 A clear grasp of what it takes to get things done and a keen eye for detail.
