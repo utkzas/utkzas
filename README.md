@@ -3,15 +3,6 @@
 
 <p>&nbsp;</p>
 
-- 😄 Student Bachelor of Technology in Information Technology (IT)
-- ⚡ Full Stack Developer Intern at 47 Creations
-- 🔭 The concept of using technology to serve the humanity motivates and encourages me to build great applications.
-- 🌱 A strong emphasis on engineering-driven quality in the development of maintainable software systems.
-- 💬 A clear grasp of what it takes to get things done and a keen eye for detail.
-- ⚡ In-depth knowledge of the architecture, scalability, and security elements of developing and deploying large-scale services and products.
-- 😄 Community: Technology Lead at [Uncertain Co](https://github.com/uncertainco) and Leader at [HashDefine](https://github.com/hash-define-organization)
-
-
 #### Languages and Tools:
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
